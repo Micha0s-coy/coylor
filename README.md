@@ -1,16 +1,9 @@
-Вот два блока, которые можно скопировать целиком.
-
 ### 📄 `README.md`
 
 ```markdown
 # Coylor Programming Language
-
-![Coylor Logo](https://via.placeholder.com/150x150?text=Coylor)  
+ 
 *The explicit, readable, and modular language.*
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/Micha0s_coy/coylor/releases/latest)
-[![Windows](https://img.shields.io/badge/platform-Windows-brightgreen)]()
 
 **Coylor** is a modern programming language designed for clarity and self-documentation. Every statement begins with `--init`, making code predictable and easy to read.
 
